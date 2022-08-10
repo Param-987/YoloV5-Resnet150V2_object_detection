@@ -1,0 +1,5 @@
+names:
+- License Plate
+nc: 1
+train: /Users/paramkesarwani/DataScience/reunion/Images/train
+val: /Users/paramkesarwani/DataScience/reunion/Images/val
